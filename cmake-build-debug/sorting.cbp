@@ -81,6 +81,9 @@
 		<Unit filename="/Users/mohamedaminebellil/Desktop/PProjects/sorting/main.cpp">
 			<Option target="sorting"/>
 		</Unit>
+		<Unit filename="/Users/mohamedaminebellil/Desktop/PProjects/sorting/sort.h">
+			<Option target="sorting"/>
+		</Unit>
 		<Unit filename="/Users/mohamedaminebellil/Desktop/PProjects/sorting/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
